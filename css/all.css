@@ -1,0 +1,50 @@
+body,html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: BebasNeue, Arial, sans-serif; 
+    font-size: 14px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.radius {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.shadow {
+    -moz-box-shadow: 7px -1px 20px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 7px -1px 20px rgba(0,0,0,0.5);
+    box-shadow: 7px -1px 20px rgba(0,0,0,0.5);
+}
+
+.row {
+    margin-left: 0;
+}
+
+.all-wrapper{
+    padding: 5px 40px;
+}
+
+h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1 {
+    font-family: "Oswald Light";
+}
+
+h6 {
+    font-family: "Helios Cond";
+}
